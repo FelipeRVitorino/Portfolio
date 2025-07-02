@@ -94,6 +94,12 @@ nav a {
   margin-bottom: 10px;
 }
 
+.contato-titulo {
+  text-align: center;
+  margin-top: 60px;
+  font-size: 2rem;
+  color: #fff;}
+
 #contato {
   background: #1a1a1a;
   padding: 20px;
